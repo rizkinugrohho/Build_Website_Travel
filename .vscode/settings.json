@@ -1,0 +1,5 @@
+{
+    "editor.suggest.showStatusBar": false,
+    "notebook.showCellStatusBar": "visible",
+    "problems.showCurrentInStatus": false
+}
