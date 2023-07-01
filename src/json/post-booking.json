@@ -1,0 +1,13 @@
+{
+  "duration": "2",
+  "price": "240",
+  "bookingDateStart": "new Date()",
+  "bookingDateEnd": "new Date()",
+  "firstName": "Rizki",
+  "lastName": "Nugroho",
+  "emailAddress": "rizkynhg@gmail.com",
+  "phoneNumber": "081586261383",
+  "accountHolder": "Rizki Nugroho sky",
+  "bankFrom": "BCA",
+  "proofPayment": "FileData()"
+}
